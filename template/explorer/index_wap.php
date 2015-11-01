@@ -54,7 +54,6 @@
 				<div style="clear:both"></div>
 			</div>
 			<?php echo $L['copyright_pre'].' v'.KOD_VERSION.' | '.$L['copyright_info'];?> 
-			<a href="javascript:core.copyright();" class="icon-info-sign copyright_bottom"></a>
 		</div>
 	</div><!-- / frame-main end-->
 
